@@ -16,4 +16,4 @@ class Main extends React.Component {
   }
 }
 
-ReactDOM.render(<Main/>, document.getElementById('container'));
+ReactDOM.render(<Main/>, document.querySelector('.container'));

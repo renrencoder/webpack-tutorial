@@ -1,0 +1,60 @@
+html,
+body,
+div,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+.main {
+    margin: 20px 0;
+}
+
+.field {
+    width: 100%;
+}
+
+.form-view a[draggable] {
+    /*display: none;*/
+    width: 100%;
+    border: 1px solid #dbdbdb;
+    border-top: none;
+}
+
+.panel-block.active,
+.panel-block.active input {
+    border: 1px solid #00d1b2;
+}
+
+
+/*.common-field li {*/
+    /*display: inline-block;*/
+    /*width: 100px;*/
+    /*height: 40px;*/
+    /*text-align: center;*/
+    /*line-height: 40px;*/
+    /*margin: 10px;*/
+    /*border: 1px solid #ccc;*/
+/*}*/
+
+/*.form-view {*/
+    /*width: 700px;*/
+    /*display: inline-block;*/
+    /*border-top: 40px solid #6A6A6A;*/
+/*}*/
+
+/*.form-group {*/
+    /*margin: 10px;*/
+/*}*/
+
+/*.field-editor {*/
+    /*width: calc(100% - 700px);*/
+    /*display: inline-block;*/
+/*}*/
+
